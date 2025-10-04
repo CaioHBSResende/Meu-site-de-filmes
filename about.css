@@ -1,0 +1,48 @@
+.conteudo{
+background-color:#000000;
+color:white;
+text-align: center;
+margin: 0;
+}
+
+.titulo{
+color:#cf1e02;
+box-shadow: 0 0 20px rgba(255, 0, 0, 0.2);
+}
+
+.container{
+
+}
+.rodape{
+ position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: gray;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  padding:20px;
+  font-size: 14px;
+  height: 0;
+  margin: 0;
+}
+
+
+.link_link{
+    color: white;
+    text-decoration: none;
+    gap: 23px;
+    border-radius: 40px;
+
+}
+.texto{
+    font-size: 20px;
+}
+.imagem{
+  width: 10%;
+justify-content: space-around;
+gap: 20px;
+height: 20%;
+margin: 5px;
+}
